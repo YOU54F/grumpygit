@@ -1,0 +1,243 @@
+{
+    "org": "pactflow",
+    "overall_sentiment": [
+        {
+            "terraform-provider-pact": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/terraform-provider-pact/issues/1": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/terraform-provider-pact/issues/2": {
+                            "THUMBS_UP": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/terraform-provider-pact/issues/3": {
+                            "HOORAY": 1,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/terraform-provider-pact/issues/8": {
+                            "ROCKET": 1,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/terraform-provider-pact/issues/11": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/terraform-provider-pact/issues/12": {
+                            "HEART": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "HEART": 1,
+                    "HOORAY": 1,
+                    "ROCKET": 1,
+                    "THUMBS_UP": 7
+                },
+                "url": "https://github.com/pactflow/terraform-provider-pact"
+            }
+        },
+        {
+            "example-consumer": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/example-consumer/issues/46": {
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "THUMBS_UP": 1
+                },
+                "url": "https://github.com/pactflow/example-consumer"
+            }
+        },
+        {
+            "example-provider-springboot": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/example-provider-springboot/issues/3": {
+                            "HOORAY": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "HOORAY": 1
+                },
+                "url": "https://github.com/pactflow/example-provider-springboot"
+            }
+        },
+        {
+            "roadmap": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/roadmap/issues/4": {
+                            "THUMBS_UP": 6
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/5": {
+                            "THUMBS_UP": 5
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/31": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/37": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/38": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/39": {
+                            "ROCKET": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/57": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/69": {
+                            "THUMBS_UP": 3
+                        }
+                    }
+                ],
+                "total": {
+                    "ROCKET": 1,
+                    "THUMBS_UP": 20
+                },
+                "url": "https://github.com/pactflow/roadmap"
+            }
+        },
+        {
+            "pact-msw-adapter": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/pact-msw-adapter/issues/21": {
+                            "THUMBS_UP": 2
+                        }
+                    }
+                ],
+                "total": {
+                    "THUMBS_UP": 2
+                },
+                "url": "https://github.com/pactflow/pact-msw-adapter"
+            }
+        },
+        {
+            "pact-protobuf-plugin": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/1": {
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "THUMBS_UP": 1
+                },
+                "url": "https://github.com/pactflow/pact-protobuf-plugin"
+            }
+        },
+        {
+            "example-bi-directional-consumer-cypress": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/example-bi-directional-consumer-cypress/issues/10": {
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "THUMBS_UP": 1
+                },
+                "url": "https://github.com/pactflow/example-bi-directional-consumer-cypress"
+            }
+        },
+        {
+            "example-bi-directional-consumer-dotnet": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/example-bi-directional-consumer-dotnet/issues/6": {
+                            "HOORAY": 1,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/example-bi-directional-consumer-dotnet/issues/7": {
+                            "HOORAY": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "HOORAY": 2,
+                    "THUMBS_UP": 1
+                },
+                "url": "https://github.com/pactflow/example-bi-directional-consumer-dotnet"
+            }
+        },
+        {
+            "example-bi-directional-provider-dotnet": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/example-bi-directional-provider-dotnet/issues/1": {
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "THUMBS_UP": 1
+                },
+                "url": "https://github.com/pactflow/example-bi-directional-provider-dotnet"
+            }
+        },
+        {
+            "pact-cypress-adapter": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/pact-cypress-adapter/issues/4": {
+                            "HEART": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "HEART": 1
+                },
+                "url": "https://github.com/pactflow/pact-cypress-adapter"
+            }
+        },
+        {
+            "github-action-pact-publish-pactfiles": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/github-action-pact-publish-pactfiles/issues/1": {
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "THUMBS_UP": 1
+                },
+                "url": "https://github.com/pactflow/github-action-pact-publish-pactfiles"
+            }
+        }
+    ]
+}
