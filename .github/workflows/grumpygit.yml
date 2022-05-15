@@ -34,4 +34,4 @@ jobs:
         message: 'grumpygit report complete for ${{ matrix.org }}'
         committer_name: GitHub Actions
         committer_email: actions@github.com
-        pull: ''
+        pull: '--no-rebase'
