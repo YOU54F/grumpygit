@@ -1,4 +1,4 @@
-name: 'grumpygit'
+name: 'grumpygit-action'
 description: 'Find every issue in your GitHub Organisation or repositories, which has had an emoji reaction'
 inputs:
   org:
