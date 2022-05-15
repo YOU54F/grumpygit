@@ -1,0 +1,46 @@
+name: 'grumpygit'
+description: 'Find every issue in your GitHub Organisation or repositories, which has had an emoji reaction'
+inputs:
+  org:
+    description: 'name of organisation/user'
+    required: true
+  repoList:
+    description: 'json file containing an array of repo names to visit'
+    required: false
+  access:
+    description: 'one of [public,all] - token must have private read rights if selecting all'
+    required: false
+# outputs:
+#   random-number:
+#     description: "Random number"
+#     value: ${{ steps.random-number-generator.outputs.random-number }}
+runs:
+  using: "composite"
+  steps:
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      shell: bash
+      run: |
+        python -m pip install --upgrade pip
+        pip install pipenv
+        pipenv install
+    - name: grumpygit-
+      if: ${{ inputs.access }}
+      shell: bash
+      run: |
+        pipenv run python grumpygit.py --org ${{ inputs.org }} --access ${{ inputs.access }}
+    - name: grumpygit
+      if: ${{ inputs.repoList }}
+      shell: bash
+      run: |
+        pipenv run python grumpygit.py --org ${{ inputs.org }} --file ${{ inputs.repoList }}
+    - uses: EndBug/add-and-commit@v9
+      with:
+        add: results/grumpygit-results-${{ matrix.org }}.json
+        message: 'grumpygit report complete for ${{ matrix.org }}'
+        committer_name: GitHub Actions
+        committer_email: actions@github.com
+        pull: ''

@@ -1,0 +1,37 @@
+name: grumpygit
+
+# on: [push]
+on: [workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        org: ["you54f","pact-foundation","pactflow"]
+      fail-fast: false
+    steps:
+    - uses: actions/checkout@v3
+      with: 
+        token: ${{ secrets.REPO_TOKEN }} # Required for private repos
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pipenv
+        pipenv install
+    - name: grumpygit
+      run: |
+        pipenv run python grumpygit.py --org ${{ matrix.org }} --access public
+      env:
+        GITHUB_TOKEN: ${{ secrets.ORG_TOKEN }}
+    - uses: EndBug/add-and-commit@v9
+      with:
+        add:  results/grumpygit-results-${{ matrix.org }}.json
+        message: 'grumpygit report complete for ${{ matrix.org }}'
+        committer_name: GitHub Actions
+        committer_email: actions@github.com
+        pull: ''
