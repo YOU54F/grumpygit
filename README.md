@@ -1,5 +1,7 @@
 # grumpygit
 
+<img src="https://user-images.githubusercontent.com/19932401/168608803-130b7d2c-b467-487c-a62b-26e9e43aaced.gif" width="150" height="150" />
+
 GitHub gave us [emojis](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)
 
 But they didn't give [notifications](https://github.com/github/feedback/discussions/5911) to feed our 🧠
