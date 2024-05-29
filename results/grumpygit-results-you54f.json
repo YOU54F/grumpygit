@@ -34,7 +34,7 @@
                     },
                     {
                         "https://github.com/you54f/cypress-multi-reporters/issues/101": {
-                            "THUMBS_UP": 1
+                            "THUMBS_UP": 2
                         }
                     },
                     {
@@ -46,13 +46,19 @@
                         "https://github.com/you54f/cypress-multi-reporters/issues/137": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/you54f/cypress-multi-reporters/issues/167": {
+                            "HEART": 1
+                        }
                     }
                 ],
                 "total": {
                     "EYES": 1,
+                    "HEART": 1,
                     "HOORAY": 3,
                     "LAUGH": 1,
-                    "THUMBS_UP": 8
+                    "THUMBS_UP": 9
                 },
                 "url": "https://github.com/you54f/cypress-multi-reporters"
             }
@@ -89,7 +95,7 @@
                     {
                         "https://github.com/you54f/cypress-plugins/issues/400": {
                             "HOORAY": 1,
-                            "THUMBS_UP": 1
+                            "THUMBS_UP": 2
                         }
                     },
                     {
@@ -124,6 +130,11 @@
                         }
                     },
                     {
+                        "https://github.com/you54f/cypress-plugins/issues/812": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/you54f/cypress-plugins/issues/966": {
                             "HEART": 2
                         }
@@ -140,7 +151,7 @@
                     {
                         "https://github.com/you54f/cypress-plugins/issues/980": {
                             "HOORAY": 2,
-                            "THUMBS_UP": 5
+                            "THUMBS_UP": 6
                         }
                     },
                     {
@@ -150,7 +161,7 @@
                     },
                     {
                         "https://github.com/you54f/cypress-plugins/issues/1030": {
-                            "THUMBS_UP": 1
+                            "THUMBS_UP": 2
                         }
                     },
                     {
@@ -163,19 +174,64 @@
                             "HOORAY": 1,
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/you54f/cypress-plugins/issues/1120": {
+                            "EYES": 1,
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/you54f/cypress-plugins/issues/1178": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/you54f/cypress-plugins/issues/1216": {
+                            "HOORAY": 1,
+                            "ROCKET": 1,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/you54f/cypress-plugins/issues/1218": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/you54f/cypress-plugins/issues/1244": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
                     "CONFUSED": 1,
-                    "EYES": 2,
+                    "EYES": 3,
                     "HEART": 9,
-                    "HOORAY": 8,
+                    "HOORAY": 9,
                     "LAUGH": 3,
-                    "ROCKET": 5,
+                    "ROCKET": 6,
                     "THUMBS_DOWN": 1,
-                    "THUMBS_UP": 30
+                    "THUMBS_UP": 41
                 },
                 "url": "https://github.com/you54f/cypress-plugins"
+            }
+        },
+        {
+            "serverless-offline-plugins": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/you54f/serverless-offline-plugins/issues/2": {
+                            "HEART": 2,
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "HEART": 2,
+                    "THUMBS_UP": 1
+                },
+                "url": "https://github.com/you54f/serverless-offline-plugins"
             }
         }
     ]
