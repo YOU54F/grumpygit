@@ -2,6 +2,30 @@
     "org": "pactflow",
     "overall_sentiment": [
         {
+            "docs.pactflow.io": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/docs.pactflow.io/issues/221": {
+                            "LAUGH": 1,
+                            "ROCKET": 1,
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/docs.pactflow.io/issues/227": {
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "LAUGH": 1,
+                    "ROCKET": 1,
+                    "THUMBS_UP": 3
+                },
+                "url": "https://github.com/pactflow/docs.pactflow.io"
+            }
+        },
+        {
             "terraform-provider-pact": {
                 "issues_with_reactions": [
                     {
@@ -68,10 +92,16 @@
                         "https://github.com/pactflow/example-provider-springboot/issues/3": {
                             "HOORAY": 1
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/example-provider-springboot/issues/33": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
-                    "HOORAY": 1
+                    "HOORAY": 1,
+                    "THUMBS_UP": 1
                 },
                 "url": "https://github.com/pactflow/example-provider-springboot"
             }
@@ -81,16 +111,21 @@
                 "issues_with_reactions": [
                     {
                         "https://github.com/pactflow/roadmap/issues/4": {
-                            "THUMBS_UP": 6
+                            "THUMBS_UP": 7
                         }
                     },
                     {
                         "https://github.com/pactflow/roadmap/issues/5": {
-                            "THUMBS_UP": 5
+                            "THUMBS_UP": 7
                         }
                     },
                     {
                         "https://github.com/pactflow/roadmap/issues/31": {
+                            "THUMBS_UP": 6
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/33": {
                             "THUMBS_UP": 2
                         }
                     },
@@ -110,21 +145,145 @@
                         }
                     },
                     {
-                        "https://github.com/pactflow/roadmap/issues/57": {
+                        "https://github.com/pactflow/roadmap/issues/45": {
+                            "THUMBS_UP": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/46": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/53": {
+                            "THUMBS_UP": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/54": {
                             "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/55": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/57": {
+                            "THUMBS_UP": 9
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/66": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/68": {
+                            "HOORAY": 2
                         }
                     },
                     {
                         "https://github.com/pactflow/roadmap/issues/69": {
                             "THUMBS_UP": 3
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/72": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/73": {
+                            "THUMBS_UP": 4
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/77": {
+                            "HEART": 1,
+                            "HOORAY": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/81": {
+                            "THUMBS_UP": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/82": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/86": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/90": {
+                            "HEART": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/92": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/94": {
+                            "HOORAY": 3,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/96": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/97": {
+                            "THUMBS_UP": 5
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/98": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/102": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/107": {
+                            "HOORAY": 1
+                        }
                     }
                 ],
                 "total": {
+                    "HEART": 3,
+                    "HOORAY": 9,
                     "ROCKET": 1,
-                    "THUMBS_UP": 20
+                    "THUMBS_UP": 72
                 },
                 "url": "https://github.com/pactflow/roadmap"
+            }
+        },
+        {
+            "example-bi-directional-provider-dredd": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/example-bi-directional-provider-dredd/issues/17": {
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "THUMBS_UP": 1
+                },
+                "url": "https://github.com/pactflow/example-bi-directional-provider-dredd"
             }
         },
         {
@@ -134,10 +293,40 @@
                         "https://github.com/pactflow/pact-msw-adapter/issues/21": {
                             "THUMBS_UP": 2
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-msw-adapter/issues/45": {
+                            "HEART": 1,
+                            "HOORAY": 1,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-msw-adapter/issues/55": {
+                            "THUMBS_UP": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-msw-adapter/issues/56": {
+                            "HEART": 1,
+                            "HOORAY": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-msw-adapter/issues/58": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-msw-adapter/issues/202": {
+                            "THUMBS_UP": 3
+                        }
                     }
                 ],
                 "total": {
-                    "THUMBS_UP": 2
+                    "HEART": 2,
+                    "HOORAY": 2,
+                    "THUMBS_UP": 10
                 },
                 "url": "https://github.com/pactflow/pact-msw-adapter"
             }
@@ -149,10 +338,52 @@
                         "https://github.com/pactflow/pact-protobuf-plugin/issues/1": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/14": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/17": {
+                            "ROCKET": 1,
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/22": {
+                            "HOORAY": 2,
+                            "THUMBS_UP": 4
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/26": {
+                            "EYES": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/27": {
+                            "HEART": 1,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/44": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/53": {
+                            "HEART": 1
+                        }
                     }
                 ],
                 "total": {
-                    "THUMBS_UP": 1
+                    "EYES": 1,
+                    "HEART": 2,
+                    "HOORAY": 2,
+                    "ROCKET": 1,
+                    "THUMBS_UP": 10
                 },
                 "url": "https://github.com/pactflow/pact-protobuf-plugin"
             }
@@ -216,27 +447,94 @@
                         "https://github.com/pactflow/pact-cypress-adapter/issues/4": {
                             "HEART": 1
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-cypress-adapter/issues/11": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-cypress-adapter/issues/29": {
+                            "THUMBS_UP": 4
+                        }
                     }
                 ],
                 "total": {
-                    "HEART": 1
+                    "HEART": 1,
+                    "THUMBS_UP": 5
                 },
                 "url": "https://github.com/pactflow/pact-cypress-adapter"
             }
         },
         {
-            "github-action-pact-publish-pactfiles": {
+            "swagger-mock-validator": {
                 "issues_with_reactions": [
                     {
-                        "https://github.com/pactflow/github-action-pact-publish-pactfiles/issues/1": {
+                        "https://github.com/pactflow/swagger-mock-validator/issues/12": {
+                            "HEART": 1,
+                            "HOORAY": 1,
+                            "THUMBS_UP": 7
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/swagger-mock-validator/issues/14": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/swagger-mock-validator/issues/21": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/swagger-mock-validator/issues/27": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/swagger-mock-validator/issues/28": {
+                            "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/swagger-mock-validator/issues/54": {
+                            "HEART": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "HEART": 3,
+                    "HOORAY": 1,
+                    "THUMBS_UP": 10
+                },
+                "url": "https://github.com/pactflow/swagger-mock-validator"
+            }
+        },
+        {
+            "actions": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pactflow/actions/issues/20": {
+                            "HOORAY": 1,
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/actions/issues/21": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/actions/issues/43": {
                             "THUMBS_UP": 1
                         }
                     }
                 ],
                 "total": {
-                    "THUMBS_UP": 1
+                    "HOORAY": 1,
+                    "THUMBS_UP": 5
                 },
-                "url": "https://github.com/pactflow/github-action-pact-publish-pactfiles"
+                "url": "https://github.com/pactflow/actions"
             }
         }
     ]
