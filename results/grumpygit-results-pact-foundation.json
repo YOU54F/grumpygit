@@ -138,16 +138,38 @@
                             "EYES": 1,
                             "THUMBS_UP": 3
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact_broker-client/issues/149": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact_broker-client/issues/167": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact_broker-client/issues/171": {
+                            "LAUGH": 1,
+                            "THUMBS_UP": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact_broker-client/issues/173": {
+                            "EYES": 1,
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
                     "CONFUSED": 1,
-                    "EYES": 1,
+                    "EYES": 2,
                     "HEART": 2,
                     "HOORAY": 5,
-                    "LAUGH": 2,
+                    "LAUGH": 3,
                     "ROCKET": 4,
-                    "THUMBS_UP": 38
+                    "THUMBS_UP": 44
                 },
                 "url": "https://github.com/pact-foundation/pact_broker-client"
             }
@@ -566,6 +588,12 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact_broker/issues/710": {
+                            "HEART": 1,
+                            "THUMBS_UP": 5
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact_broker/issues/444": {
                             "EYES": 1
                         }
@@ -693,15 +721,36 @@
                         "https://github.com/pact-foundation/pact_broker/issues/678": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact_broker/issues/684": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact_broker/issues/698": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact_broker/issues/742": {
+                            "HEART": 2,
+                            "ROCKET": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact_broker/issues/789": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
                     "EYES": 6,
-                    "HEART": 23,
+                    "HEART": 26,
                     "HOORAY": 9,
                     "LAUGH": 10,
-                    "ROCKET": 1,
-                    "THUMBS_UP": 168
+                    "ROCKET": 2,
+                    "THUMBS_UP": 176
                 },
                 "url": "https://github.com/pact-foundation/pact_broker"
             }
@@ -846,7 +895,7 @@
                         "https://github.com/pact-foundation/pact-specification/issues/75": {
                             "EYES": 1,
                             "HEART": 1,
-                            "THUMBS_UP": 4
+                            "THUMBS_UP": 5
                         }
                     },
                     {
@@ -930,7 +979,7 @@
                     "HOORAY": 5,
                     "LAUGH": 7,
                     "ROCKET": 1,
-                    "THUMBS_UP": 137
+                    "THUMBS_UP": 138
                 },
                 "url": "https://github.com/pact-foundation/pact-specification"
             }
@@ -965,6 +1014,11 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-ruby/issues/125": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-ruby/issues/135": {
                             "THUMBS_UP": 1
                         }
                     },
@@ -1085,15 +1139,9 @@
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/pact-ruby/issues/239": {
-                            "HEART": 1,
-                            "THUMBS_UP": 5
-                        }
-                    },
-                    {
                         "https://github.com/pact-foundation/pact-ruby/issues/240": {
                             "CONFUSED": 1,
-                            "THUMBS_UP": 1
+                            "THUMBS_UP": 2
                         }
                     },
                     {
@@ -1102,11 +1150,6 @@
                             "HOORAY": 1,
                             "ROCKET": 2,
                             "THUMBS_UP": 7
-                        }
-                    },
-                    {
-                        "https://github.com/pact-foundation/pact-ruby/issues/251": {
-                            "THUMBS_UP": 1
                         }
                     },
                     {
@@ -1128,16 +1171,26 @@
                         "https://github.com/pact-foundation/pact-ruby/issues/303": {
                             "HEART": 1
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-ruby/issues/306": {
+                            "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-ruby/issues/328": {
+                            "HEART": 1
+                        }
                     }
                 ],
                 "total": {
                     "CONFUSED": 1,
                     "EYES": 1,
-                    "HEART": 8,
+                    "HEART": 9,
                     "HOORAY": 8,
                     "LAUGH": 2,
                     "ROCKET": 3,
-                    "THUMBS_UP": 73
+                    "THUMBS_UP": 69
                 },
                 "url": "https://github.com/pact-foundation/pact-ruby"
             }
@@ -1248,7 +1301,7 @@
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/319": {
                             "THUMBS_DOWN": 5,
-                            "THUMBS_UP": 10
+                            "THUMBS_UP": 11
                         }
                     },
                     {
@@ -1552,8 +1605,13 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-jvm/issues/606": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-jvm/issues/610": {
-                            "THUMBS_UP": 18
+                            "THUMBS_UP": 19
                         }
                     },
                     {
@@ -1605,7 +1663,7 @@
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/683": {
                             "HOORAY": 1,
-                            "THUMBS_UP": 2
+                            "THUMBS_UP": 3
                         }
                     },
                     {
@@ -1759,7 +1817,7 @@
                         "https://github.com/pact-foundation/pact-jvm/issues/823": {
                             "CONFUSED": 1,
                             "HOORAY": 1,
-                            "THUMBS_UP": 5
+                            "THUMBS_UP": 6
                         }
                     },
                     {
@@ -1782,7 +1840,7 @@
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/854": {
                             "HEART": 1,
-                            "THUMBS_UP": 13
+                            "THUMBS_UP": 15
                         }
                     },
                     {
@@ -1954,7 +2012,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/1023": {
-                            "THUMBS_UP": 7
+                            "THUMBS_UP": 8
                         }
                     },
                     {
@@ -2034,7 +2092,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/1077": {
-                            "THUMBS_UP": 13
+                            "THUMBS_UP": 14
                         }
                     },
                     {
@@ -2133,8 +2191,13 @@
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/pact-jvm/issues/1179": {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1178": {
                             "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1179": {
+                            "THUMBS_UP": 2
                         }
                     },
                     {
@@ -2210,7 +2273,8 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/1255": {
-                            "HEART": 1
+                            "HEART": 3,
+                            "HOORAY": 1
                         }
                     },
                     {
@@ -2420,6 +2484,11 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1431": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-jvm/issues/1435": {
                             "THUMBS_UP": 1
                         }
@@ -2513,12 +2582,13 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/1488": {
-                            "THUMBS_UP": 16
+                            "HOORAY": 1,
+                            "THUMBS_UP": 17
                         }
                     },
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/1492": {
-                            "HEART": 5,
+                            "HEART": 9,
                             "HOORAY": 2,
                             "ROCKET": 3,
                             "THUMBS_UP": 8
@@ -2613,7 +2683,8 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/1564": {
-                            "THUMBS_UP": 2
+                            "ROCKET": 1,
+                            "THUMBS_UP": 3
                         }
                     },
                     {
@@ -2660,7 +2731,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/1604": {
-                            "THUMBS_UP": 2
+                            "THUMBS_UP": 3
                         }
                     },
                     {
@@ -2708,6 +2779,11 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1664": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-jvm/issues/1672": {
                             "THUMBS_UP": 3
                         }
@@ -2745,6 +2821,11 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/1695": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1698": {
                             "THUMBS_UP": 1
                         }
                     },
@@ -2797,8 +2878,13 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1775": {
+                            "HOORAY": 1
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-jvm/issues/1781": {
-                            "THUMBS_UP": 1
+                            "THUMBS_UP": 2
                         }
                     },
                     {
@@ -2818,6 +2904,81 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-jvm/issues/1796": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1798": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1812": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1813": {
+                            "THUMBS_UP": 4
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1814": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1819": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1820": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1826": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1827": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1835": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1846": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1847": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1848": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1851": {
+                            "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1857": {
+                            "HEART": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-jvm/issues/1859": {
                             "THUMBS_UP": 1
                         }
                     }
@@ -2825,12 +2986,12 @@
                 "total": {
                     "CONFUSED": 6,
                     "EYES": 10,
-                    "HEART": 52,
-                    "HOORAY": 37,
+                    "HEART": 61,
+                    "HOORAY": 40,
                     "LAUGH": 6,
-                    "ROCKET": 17,
+                    "ROCKET": 18,
                     "THUMBS_DOWN": 7,
-                    "THUMBS_UP": 642
+                    "THUMBS_UP": 679
                 },
                 "url": "https://github.com/pact-foundation/pact-jvm"
             }
@@ -3033,7 +3194,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-net/issues/166": {
-                            "THUMBS_UP": 4
+                            "THUMBS_UP": 5
                         }
                     },
                     {
@@ -3304,6 +3465,11 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-net/issues/385": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-net/issues/387": {
                             "THUMBS_UP": 8
                         }
@@ -3427,7 +3593,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-net/issues/462": {
-                            "THUMBS_UP": 3
+                            "THUMBS_UP": 4
                         }
                     },
                     {
@@ -3476,20 +3642,75 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-net/issues/492": {
+                            "THUMBS_UP": 3
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-net/issues/499": {
                             "THUMBS_UP": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/501": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/503": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/504": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/505": {
+                            "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/507": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/509": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/515": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/519": {
+                            "EYES": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/522": {
+                            "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-net/issues/530": {
+                            "EYES": 1
                         }
                     }
                 ],
                 "total": {
                     "CONFUSED": 2,
-                    "EYES": 4,
-                    "HEART": 14,
+                    "EYES": 6,
+                    "HEART": 16,
                     "HOORAY": 9,
                     "LAUGH": 4,
                     "ROCKET": 1,
                     "THUMBS_DOWN": 7,
-                    "THUMBS_UP": 329
+                    "THUMBS_UP": 342
                 },
                 "url": "https://github.com/pact-foundation/pact-net"
             }
@@ -3534,7 +3755,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-support/issues/61": {
-                            "THUMBS_UP": 3
+                            "THUMBS_UP": 4
                         }
                     },
                     {
@@ -3556,7 +3777,7 @@
                 "total": {
                     "HEART": 1,
                     "HOORAY": 1,
-                    "THUMBS_UP": 18
+                    "THUMBS_UP": 19
                 },
                 "url": "https://github.com/pact-foundation/pact-support"
             }
@@ -3573,6 +3794,11 @@
                         "https://github.com/pact-foundation/pact-mock_service/issues/35": {
                             "HEART": 2,
                             "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-mock_service/issues/39": {
+                            "HEART": 1
                         }
                     },
                     {
@@ -3632,15 +3858,20 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-mock_service/issues/127": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-mock_service/issues/140": {
                             "THUMBS_UP": 1
                         }
                     }
                 ],
                 "total": {
-                    "HEART": 2,
+                    "HEART": 3,
                     "HOORAY": 1,
-                    "THUMBS_UP": 22
+                    "THUMBS_UP": 23
                 },
                 "url": "https://github.com/pact-foundation/pact-mock_service"
             }
@@ -3975,11 +4206,6 @@
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/pact-js-core/issues/249": {
-                            "THUMBS_UP": 2
-                        }
-                    },
-                    {
                         "https://github.com/pact-foundation/pact-js-core/issues/250": {
                             "THUMBS_UP": 1
                         }
@@ -4027,11 +4253,6 @@
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/pact-js-core/issues/337": {
-                            "THUMBS_UP": 2
-                        }
-                    },
-                    {
                         "https://github.com/pact-foundation/pact-js-core/issues/338": {
                             "THUMBS_UP": 1
                         }
@@ -4063,7 +4284,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js-core/issues/360": {
-                            "THUMBS_UP": 5
+                            "THUMBS_UP": 6
                         }
                     },
                     {
@@ -4111,6 +4332,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js-core/issues/417": {
+                            "HOORAY": 1,
                             "THUMBS_UP": 2
                         }
                     },
@@ -4170,7 +4392,8 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js-core/issues/490": {
-                            "EYES": 1
+                            "EYES": 1,
+                            "ROCKET": 1
                         }
                     },
                     {
@@ -4179,16 +4402,33 @@
                             "ROCKET": 1,
                             "THUMBS_UP": 3
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js-core/issues/524": {
+                            "EYES": 1,
+                            "HOORAY": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js-core/issues/602": {
+                            "HEART": 1,
+                            "HOORAY": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js-core/issues/603": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
-                    "EYES": 8,
-                    "HEART": 17,
-                    "HOORAY": 19,
+                    "EYES": 9,
+                    "HEART": 18,
+                    "HOORAY": 22,
                     "LAUGH": 6,
-                    "ROCKET": 7,
+                    "ROCKET": 8,
                     "THUMBS_DOWN": 1,
-                    "THUMBS_UP": 196
+                    "THUMBS_UP": 194
                 },
                 "url": "https://github.com/pact-foundation/pact-js-core"
             }
@@ -4550,6 +4790,11 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-reference/issues/249": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-reference/issues/257": {
                             "HOORAY": 2
                         }
@@ -4652,6 +4897,17 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-reference/issues/350": {
+                            "HEART": 1,
+                            "THUMBS_UP": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-reference/issues/353": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-reference/issues/354": {
                             "THUMBS_UP": 2
                         }
@@ -4670,6 +4926,11 @@
                     {
                         "https://github.com/pact-foundation/pact-reference/issues/386": {
                             "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-reference/issues/389": {
+                            "HOORAY": 2
                         }
                     },
                     {
@@ -4702,16 +4963,51 @@
                         "https://github.com/pact-foundation/pact-reference/issues/419": {
                             "HEART": 1
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-reference/issues/430": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-reference/issues/447": {
+                            "LAUGH": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-reference/issues/452": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-reference/issues/455": {
+                            "CONFUSED": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-reference/issues/466": {
+                            "LAUGH": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-reference/issues/467": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-reference/issues/483": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
-                    "CONFUSED": 1,
+                    "CONFUSED": 2,
                     "EYES": 1,
-                    "HEART": 17,
-                    "HOORAY": 23,
-                    "LAUGH": 8,
+                    "HEART": 18,
+                    "HOORAY": 25,
+                    "LAUGH": 10,
                     "ROCKET": 3,
-                    "THUMBS_UP": 98
+                    "THUMBS_UP": 107
                 },
                 "url": "https://github.com/pact-foundation/pact-reference"
             }
@@ -4790,6 +5086,11 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-provider-verifier/issues/121": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-provider-verifier/issues/74": {
                             "THUMBS_UP": 2
                         }
@@ -4802,7 +5103,7 @@
                 ],
                 "total": {
                     "HOORAY": 2,
-                    "THUMBS_UP": 20
+                    "THUMBS_UP": 21
                 },
                 "url": "https://github.com/pact-foundation/pact-provider-verifier"
             }
@@ -5025,7 +5326,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-go/issues/173": {
-                            "THUMBS_UP": 1
+                            "THUMBS_UP": 2
                         }
                     },
                     {
@@ -5087,7 +5388,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-go/issues/239": {
-                            "THUMBS_UP": 5
+                            "THUMBS_UP": 8
                         }
                     },
                     {
@@ -5112,6 +5413,8 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-go/issues/269": {
+                            "EYES": 1,
+                            "HEART": 5,
                             "THUMBS_UP": 1
                         }
                     },
@@ -5138,6 +5441,7 @@
                     {
                         "https://github.com/pact-foundation/pact-go/issues/337": {
                             "EYES": 1,
+                            "HOORAY": 1,
                             "THUMBS_UP": 1
                         }
                     },
@@ -5171,15 +5475,20 @@
                         "https://github.com/pact-foundation/pact-go/issues/409": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-go/issues/452": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
                     "CONFUSED": 2,
-                    "EYES": 1,
-                    "HEART": 9,
-                    "HOORAY": 6,
+                    "EYES": 2,
+                    "HEART": 14,
+                    "HOORAY": 7,
                     "LAUGH": 4,
-                    "THUMBS_UP": 107
+                    "THUMBS_UP": 112
                 },
                 "url": "https://github.com/pact-foundation/pact-go"
             }
@@ -5488,7 +5797,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js/issues/179": {
-                            "THUMBS_UP": 10
+                            "THUMBS_UP": 11
                         }
                     },
                     {
@@ -5572,7 +5881,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js/issues/215": {
-                            "THUMBS_UP": 3
+                            "THUMBS_UP": 4
                         }
                     },
                     {
@@ -5592,7 +5901,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js/issues/237": {
-                            "HEART": 2,
+                            "HEART": 3,
                             "ROCKET": 1,
                             "THUMBS_UP": 3
                         }
@@ -5693,7 +6002,7 @@
                     {
                         "https://github.com/pact-foundation/pact-js/issues/292": {
                             "HEART": 2,
-                            "THUMBS_UP": 4
+                            "THUMBS_UP": 5
                         }
                     },
                     {
@@ -5783,7 +6092,7 @@
                     {
                         "https://github.com/pact-foundation/pact-js/issues/371": {
                             "EYES": 1,
-                            "THUMBS_UP": 5
+                            "THUMBS_UP": 4
                         }
                     },
                     {
@@ -5827,7 +6136,7 @@
                     {
                         "https://github.com/pact-foundation/pact-js/issues/393": {
                             "CONFUSED": 3,
-                            "THUMBS_UP": 3
+                            "THUMBS_UP": 4
                         }
                     },
                     {
@@ -6431,6 +6740,11 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-js/issues/965": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-js/issues/966": {
                             "HOORAY": 1,
                             "THUMBS_UP": 1
@@ -6454,7 +6768,7 @@
                     {
                         "https://github.com/pact-foundation/pact-js/issues/1023": {
                             "LAUGH": 1,
-                            "THUMBS_UP": 4
+                            "THUMBS_UP": 5
                         }
                     },
                     {
@@ -6500,7 +6814,8 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js/issues/1054": {
-                            "THUMBS_UP": 4
+                            "HEART": 1,
+                            "THUMBS_UP": 5
                         }
                     },
                     {
@@ -6511,7 +6826,7 @@
                     {
                         "https://github.com/pact-foundation/pact-js/issues/1058": {
                             "ROCKET": 1,
-                            "THUMBS_UP": 9
+                            "THUMBS_UP": 13
                         }
                     },
                     {
@@ -6558,7 +6873,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js/issues/1078": {
-                            "THUMBS_UP": 7
+                            "THUMBS_UP": 9
                         }
                     },
                     {
@@ -6588,7 +6903,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js/issues/1093": {
-                            "THUMBS_UP": 3
+                            "THUMBS_UP": 4
                         }
                     },
                     {
@@ -6622,8 +6937,18 @@
                         }
                     },
                     {
+                        "https://github.com/pact-foundation/pact-js/issues/1140": {
+                            "EYES": 2
+                        }
+                    },
+                    {
                         "https://github.com/pact-foundation/pact-js/issues/1141": {
                             "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js/issues/1164": {
+                            "THUMBS_UP": 5
                         }
                     },
                     {
@@ -6633,7 +6958,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-js/issues/1173": {
-                            "THUMBS_UP": 1
+                            "THUMBS_UP": 3
                         }
                     },
                     {
@@ -6670,17 +6995,62 @@
                         "https://github.com/pact-foundation/pact-js/issues/1217": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js/issues/1220": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js/issues/1229": {
+                            "ROCKET": 1,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js/issues/1235": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js/issues/1241": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js/issues/1253": {
+                            "ROCKET": 1,
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js/issues/1398": {
+                            "LAUGH": 1,
+                            "THUMBS_UP": 3
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js/issues/1415": {
+                            "HOORAY": 2,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js/issues/1424": {
+                            "HEART": 1,
+                            "ROCKET": 1
+                        }
                     }
                 ],
                 "total": {
                     "CONFUSED": 11,
-                    "EYES": 7,
-                    "HEART": 47,
-                    "HOORAY": 46,
-                    "LAUGH": 20,
-                    "ROCKET": 18,
+                    "EYES": 9,
+                    "HEART": 50,
+                    "HOORAY": 48,
+                    "LAUGH": 21,
+                    "ROCKET": 21,
                     "THUMBS_DOWN": 7,
-                    "THUMBS_UP": 576
+                    "THUMBS_UP": 607
                 },
                 "url": "https://github.com/pact-foundation/pact-js"
             }
@@ -7064,7 +7434,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-python/issues/307": {
-                            "THUMBS_UP": 1
+                            "THUMBS_UP": 2
                         }
                     },
                     {
@@ -7125,7 +7495,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-python/issues/379": {
-                            "HOORAY": 1
+                            "HOORAY": 2
                         }
                     },
                     {
@@ -7164,16 +7534,36 @@
                             "HOORAY": 1,
                             "THUMBS_UP": 3
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-python/issues/706": {
+                            "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-python/issues/747": {
+                            "EYES": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-python/issues/933": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-python/issues/967": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
-                    "EYES": 2,
-                    "HEART": 8,
-                    "HOORAY": 6,
+                    "EYES": 3,
+                    "HEART": 9,
+                    "HOORAY": 7,
                     "LAUGH": 2,
                     "ROCKET": 3,
                     "THUMBS_DOWN": 1,
-                    "THUMBS_UP": 124
+                    "THUMBS_UP": 128
                 },
                 "url": "https://github.com/pact-foundation/pact-python"
             }
@@ -7224,35 +7614,35 @@
             }
         },
         {
-            "devrel": {
+            "roadmap": {
                 "issues_with_reactions": [
                     {
-                        "https://github.com/pact-foundation/devrel/issues/10": {
+                        "https://github.com/pact-foundation/roadmap/issues/10": {
                             "HEART": 3
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/devrel/issues/20": {
+                        "https://github.com/pact-foundation/roadmap/issues/20": {
                             "THUMBS_UP": 1
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/devrel/issues/21": {
+                        "https://github.com/pact-foundation/roadmap/issues/21": {
                             "THUMBS_UP": 1
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/devrel/issues/24": {
+                        "https://github.com/pact-foundation/roadmap/issues/24": {
                             "THUMBS_UP": 1
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/devrel/issues/25": {
+                        "https://github.com/pact-foundation/roadmap/issues/25": {
                             "HOORAY": 1
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/devrel/issues/26": {
+                        "https://github.com/pact-foundation/roadmap/issues/26": {
                             "CONFUSED": 2,
                             "HOORAY": 1,
                             "LAUGH": 1,
@@ -7260,19 +7650,49 @@
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/devrel/issues/29": {
+                        "https://github.com/pact-foundation/roadmap/issues/29": {
                             "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/roadmap/issues/32": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/roadmap/issues/90": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/roadmap/issues/91": {
+                            "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/roadmap/issues/92": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/roadmap/issues/94": {
+                            "HEART": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/roadmap/issues/114": {
+                            "THUMBS_UP": 5
                         }
                     }
                 ],
                 "total": {
                     "CONFUSED": 2,
-                    "HEART": 3,
+                    "HEART": 6,
                     "HOORAY": 2,
                     "LAUGH": 1,
-                    "THUMBS_UP": 5
+                    "THUMBS_UP": 13
                 },
-                "url": "https://github.com/pact-foundation/devrel"
+                "url": "https://github.com/pact-foundation/roadmap"
             }
         },
         {
@@ -7408,14 +7828,24 @@
                         "https://github.com/pact-foundation/pact-ruby-standalone/issues/134": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-ruby-standalone/issues/142": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-ruby-standalone/issues/164": {
+                            "HOORAY": 1
+                        }
                     }
                 ],
                 "total": {
                     "HEART": 3,
-                    "HOORAY": 5,
+                    "HOORAY": 6,
                     "LAUGH": 1,
                     "ROCKET": 1,
-                    "THUMBS_UP": 47
+                    "THUMBS_UP": 49
                 },
                 "url": "https://github.com/pact-foundation/pact-ruby-standalone"
             }
@@ -7550,8 +7980,13 @@
                         }
                     },
                     {
-                        "https://github.com/pact-foundation/pact-php/issues/254": {
+                        "https://github.com/pact-foundation/pact-php/issues/250": {
                             "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-php/issues/254": {
+                            "HEART": 2
                         }
                     },
                     {
@@ -7559,6 +7994,11 @@
                             "EYES": 1,
                             "HOORAY": 1,
                             "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-php/issues/260": {
+                            "HEART": 2
                         }
                     },
                     {
@@ -7581,6 +8021,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-php/issues/287": {
+                            "HEART": 1,
                             "THUMBS_UP": 1
                         }
                     },
@@ -7592,6 +8033,11 @@
                     {
                         "https://github.com/pact-foundation/pact-php/issues/317": {
                             "HEART": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-php/issues/318": {
+                            "ROCKET": 1
                         }
                     },
                     {
@@ -7616,6 +8062,8 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-php/issues/377": {
+                            "HEART": 1,
+                            "HOORAY": 1,
                             "ROCKET": 1
                         }
                     },
@@ -7628,14 +8076,24 @@
                         "https://github.com/pact-foundation/pact-php/issues/560": {
                             "THUMBS_UP": 2
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-php/issues/690": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-php/issues/703": {
+                            "THUMBS_UP": 2
+                        }
                     }
                 ],
                 "total": {
                     "EYES": 3,
-                    "HEART": 12,
-                    "HOORAY": 8,
-                    "ROCKET": 1,
-                    "THUMBS_UP": 49
+                    "HEART": 18,
+                    "HOORAY": 9,
+                    "ROCKET": 2,
+                    "THUMBS_UP": 52
                 },
                 "url": "https://github.com/pact-foundation/pact-php"
             }
@@ -7731,6 +8189,7 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-ruby-cli/issues/43": {
+                            "HEART": 1,
                             "THUMBS_UP": 1
                         }
                     },
@@ -7773,7 +8232,7 @@
                 "total": {
                     "CONFUSED": 1,
                     "EYES": 1,
-                    "HEART": 5,
+                    "HEART": 6,
                     "HOORAY": 1,
                     "ROCKET": 1,
                     "THUMBS_UP": 12
@@ -7990,11 +8449,18 @@
                             "HEART": 3,
                             "THUMBS_UP": 4
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-workshop-go/issues/26": {
+                            "HOORAY": 1,
+                            "THUMBS_UP": 2
+                        }
                     }
                 ],
                 "total": {
                     "HEART": 3,
-                    "THUMBS_UP": 4
+                    "HOORAY": 1,
+                    "THUMBS_UP": 6
                 },
                 "url": "https://github.com/pact-foundation/pact-workshop-go"
             }
@@ -8062,13 +8528,23 @@
                         "https://github.com/pact-foundation/pact-workshop-js/issues/105": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-workshop-js/issues/149": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-workshop-js/issues/158": {
+                            "HEART": 1
+                        }
                     }
                 ],
                 "total": {
                     "EYES": 2,
-                    "HEART": 1,
+                    "HEART": 2,
                     "HOORAY": 1,
-                    "THUMBS_UP": 13
+                    "THUMBS_UP": 14
                 },
                 "url": "https://github.com/pact-foundation/pact-workshop-js"
             }
@@ -8174,6 +8650,21 @@
                     "THUMBS_UP": 20
                 },
                 "url": "https://github.com/pact-foundation/docs.pact.io"
+            }
+        },
+        {
+            ".github": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pact-foundation/.github/issues/18": {
+                            "THUMBS_UP": 2
+                        }
+                    }
+                ],
+                "total": {
+                    "THUMBS_UP": 2
+                },
+                "url": "https://github.com/pact-foundation/.github"
             }
         },
         {
@@ -8289,13 +8780,23 @@
                         "https://github.com/pact-foundation/pact-plugins/issues/48": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-plugins/issues/72": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-plugins/issues/81": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
                     "HEART": 1,
                     "HOORAY": 2,
                     "LAUGH": 1,
-                    "THUMBS_UP": 3
+                    "THUMBS_UP": 5
                 },
                 "url": "https://github.com/pact-foundation/pact-plugins"
             }
@@ -8342,7 +8843,9 @@
                     },
                     {
                         "https://github.com/pact-foundation/pact-broker-chart/issues/67": {
-                            "HEART": 1
+                            "HEART": 1,
+                            "ROCKET": 1,
+                            "THUMBS_UP": 1
                         }
                     },
                     {
@@ -8354,7 +8857,8 @@
                 "total": {
                     "HEART": 3,
                     "HOORAY": 2,
-                    "THUMBS_UP": 7
+                    "ROCKET": 1,
+                    "THUMBS_UP": 8
                 },
                 "url": "https://github.com/pact-foundation/pact-broker-chart"
             }
@@ -8374,6 +8878,44 @@
                     "THUMBS_UP": 1
                 },
                 "url": "https://github.com/pact-foundation/pact-5-minute-getting-started-guide"
+            }
+        },
+        {
+            "pact-js-cli": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/pact-foundation/pact-js-cli/issues/7": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js-cli/issues/5": {
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js-cli/issues/11": {
+                            "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js-cli/issues/12": {
+                            "EYES": 1,
+                            "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pact-foundation/pact-js-cli/issues/24": {
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "EYES": 1,
+                    "HEART": 1,
+                    "THUMBS_UP": 7
+                },
+                "url": "https://github.com/pact-foundation/pact-js-cli"
             }
         },
         {
