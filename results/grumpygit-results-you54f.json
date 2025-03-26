@@ -74,18 +74,6 @@
                         }
                     },
                     {
-                        "https://github.com/you54f/cypress-plugins/issues/79": {
-                            "CONFUSED": 1,
-                            "EYES": 1,
-                            "HEART": 1,
-                            "HOORAY": 1,
-                            "LAUGH": 1,
-                            "ROCKET": 1,
-                            "THUMBS_DOWN": 1,
-                            "THUMBS_UP": 1
-                        }
-                    },
-                    {
                         "https://github.com/you54f/cypress-plugins/issues/100": {
                             "HEART": 1,
                             "ROCKET": 1,
@@ -202,19 +190,46 @@
                         "https://github.com/you54f/cypress-plugins/issues/1244": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/you54f/cypress-plugins/issues/1250": {
+                            "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/you54f/cypress-plugins/issues/1253": {
+                            "HEART": 1
+                        }
                     }
                 ],
                 "total": {
-                    "CONFUSED": 1,
-                    "EYES": 3,
-                    "HEART": 9,
-                    "HOORAY": 9,
-                    "LAUGH": 3,
-                    "ROCKET": 6,
-                    "THUMBS_DOWN": 1,
-                    "THUMBS_UP": 41
+                    "EYES": 2,
+                    "HEART": 10,
+                    "HOORAY": 8,
+                    "LAUGH": 2,
+                    "ROCKET": 5,
+                    "THUMBS_UP": 40
                 },
                 "url": "https://github.com/you54f/cypress-plugins"
+            }
+        },
+        {
+            "pact-ruby-ffi": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/you54f/pact-ruby-ffi/issues/6": {
+                            "HEART": 3,
+                            "HOORAY": 4,
+                            "THUMBS_UP": 5
+                        }
+                    }
+                ],
+                "total": {
+                    "HEART": 3,
+                    "HOORAY": 4,
+                    "THUMBS_UP": 5
+                },
+                "url": "https://github.com/you54f/pact-ruby-ffi"
             }
         },
         {
@@ -232,6 +247,25 @@
                     "THUMBS_UP": 1
                 },
                 "url": "https://github.com/you54f/serverless-offline-plugins"
+            }
+        },
+        {
+            "traveling-ruby": {
+                "issues_with_reactions": [
+                    {
+                        "https://github.com/you54f/traveling-ruby/issues/8": {
+                            "HEART": 1,
+                            "HOORAY": 1,
+                            "THUMBS_UP": 1
+                        }
+                    }
+                ],
+                "total": {
+                    "HEART": 1,
+                    "HOORAY": 1,
+                    "THUMBS_UP": 1
+                },
+                "url": "https://github.com/you54f/traveling-ruby"
             }
         }
     ]
