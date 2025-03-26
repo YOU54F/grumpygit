@@ -171,7 +171,7 @@
                     },
                     {
                         "https://github.com/pactflow/roadmap/issues/57": {
-                            "THUMBS_UP": 9
+                            "THUMBS_UP": 12
                         }
                     },
                     {
@@ -253,7 +253,12 @@
                     },
                     {
                         "https://github.com/pactflow/roadmap/issues/102": {
-                            "THUMBS_UP": 2
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/105": {
+                            "THUMBS_UP": 1
                         }
                     },
                     {
@@ -266,7 +271,7 @@
                     "HEART": 3,
                     "HOORAY": 9,
                     "ROCKET": 1,
-                    "THUMBS_UP": 72
+                    "THUMBS_UP": 75
                 },
                 "url": "https://github.com/pactflow/roadmap"
             }
@@ -318,15 +323,25 @@
                         }
                     },
                     {
+                        "https://github.com/pactflow/pact-msw-adapter/issues/191": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pactflow/pact-msw-adapter/issues/202": {
-                            "THUMBS_UP": 3
+                            "THUMBS_UP": 4
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-msw-adapter/issues/213": {
+                            "THUMBS_UP": 2
                         }
                     }
                 ],
                 "total": {
                     "HEART": 2,
                     "HOORAY": 2,
-                    "THUMBS_UP": 10
+                    "THUMBS_UP": 14
                 },
                 "url": "https://github.com/pactflow/pact-msw-adapter"
             }
@@ -376,12 +391,18 @@
                         "https://github.com/pactflow/pact-protobuf-plugin/issues/53": {
                             "HEART": 1
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/71": {
+                            "HEART": 1,
+                            "HOORAY": 2
+                        }
                     }
                 ],
                 "total": {
                     "EYES": 1,
-                    "HEART": 2,
-                    "HOORAY": 2,
+                    "HEART": 3,
+                    "HOORAY": 4,
                     "ROCKET": 1,
                     "THUMBS_UP": 10
                 },
@@ -497,15 +518,31 @@
                         }
                     },
                     {
+                        "https://github.com/pactflow/swagger-mock-validator/issues/51": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
                         "https://github.com/pactflow/swagger-mock-validator/issues/54": {
                             "HEART": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/swagger-mock-validator/issues/60": {
+                            "ROCKET": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/swagger-mock-validator/issues/71": {
+                            "HOORAY": 1
                         }
                     }
                 ],
                 "total": {
                     "HEART": 3,
-                    "HOORAY": 1,
-                    "THUMBS_UP": 10
+                    "HOORAY": 2,
+                    "ROCKET": 1,
+                    "THUMBS_UP": 11
                 },
                 "url": "https://github.com/pactflow/swagger-mock-validator"
             }
@@ -516,7 +553,7 @@
                     {
                         "https://github.com/pactflow/actions/issues/20": {
                             "HOORAY": 1,
-                            "THUMBS_UP": 2
+                            "THUMBS_UP": 3
                         }
                     },
                     {
@@ -532,7 +569,7 @@
                 ],
                 "total": {
                     "HOORAY": 1,
-                    "THUMBS_UP": 5
+                    "THUMBS_UP": 6
                 },
                 "url": "https://github.com/pactflow/actions"
             }
