@@ -59,13 +59,23 @@
                         "https://github.com/pactflow/terraform-provider-pact/issues/12": {
                             "HEART": 1
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/terraform-provider-pact/issues/29": {
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/terraform-provider-pact/issues/45": {
+                            "HOORAY": 1
+                        }
                     }
                 ],
                 "total": {
                     "HEART": 1,
-                    "HOORAY": 1,
+                    "HOORAY": 2,
                     "ROCKET": 1,
-                    "THUMBS_UP": 7
+                    "THUMBS_UP": 8
                 },
                 "url": "https://github.com/pactflow/terraform-provider-pact"
             }
@@ -121,12 +131,17 @@
                     },
                     {
                         "https://github.com/pactflow/roadmap/issues/31": {
-                            "THUMBS_UP": 6
+                            "THUMBS_UP": 7
                         }
                     },
                     {
                         "https://github.com/pactflow/roadmap/issues/33": {
                             "THUMBS_UP": 2
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/34": {
+                            "THUMBS_UP": 1
                         }
                     },
                     {
@@ -265,13 +280,26 @@
                         "https://github.com/pactflow/roadmap/issues/107": {
                             "HOORAY": 1
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/112": {
+                            "EYES": 1,
+                            "HOORAY": 1,
+                            "THUMBS_UP": 1
+                        }
+                    },
+                    {
+                        "https://github.com/pactflow/roadmap/issues/128": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
+                    "EYES": 1,
                     "HEART": 3,
-                    "HOORAY": 9,
+                    "HOORAY": 10,
                     "ROCKET": 1,
-                    "THUMBS_UP": 75
+                    "THUMBS_UP": 79
                 },
                 "url": "https://github.com/pactflow/roadmap"
             }
@@ -334,14 +362,16 @@
                     },
                     {
                         "https://github.com/pactflow/pact-msw-adapter/issues/213": {
-                            "THUMBS_UP": 2
+                            "HEART": 2,
+                            "HOORAY": 1,
+                            "THUMBS_UP": 4
                         }
                     }
                 ],
                 "total": {
-                    "HEART": 2,
-                    "HOORAY": 2,
-                    "THUMBS_UP": 14
+                    "HEART": 4,
+                    "HOORAY": 3,
+                    "THUMBS_UP": 16
                 },
                 "url": "https://github.com/pactflow/pact-msw-adapter"
             }
@@ -397,6 +427,11 @@
                             "HEART": 1,
                             "HOORAY": 2
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/pact-protobuf-plugin/issues/197": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
@@ -404,7 +439,7 @@
                     "HEART": 3,
                     "HOORAY": 4,
                     "ROCKET": 1,
-                    "THUMBS_UP": 10
+                    "THUMBS_UP": 11
                 },
                 "url": "https://github.com/pactflow/pact-protobuf-plugin"
             }
@@ -565,11 +600,16 @@
                         "https://github.com/pactflow/actions/issues/43": {
                             "THUMBS_UP": 1
                         }
+                    },
+                    {
+                        "https://github.com/pactflow/actions/issues/72": {
+                            "THUMBS_UP": 1
+                        }
                     }
                 ],
                 "total": {
                     "HOORAY": 1,
-                    "THUMBS_UP": 6
+                    "THUMBS_UP": 7
                 },
                 "url": "https://github.com/pactflow/actions"
             }
